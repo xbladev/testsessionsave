@@ -1,7 +1,9 @@
 {
   "BLADE=fAdQzLhB#_FHqoNZhQjKeNmex8mI4UeOy5Fibuonc8byMSWeX7fw": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "💚"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": true,
