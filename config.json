@@ -1,5 +1,5 @@
 {
-  "BLADE=fAdQzLhB#_FHqoNZhQjKeNmex8mI4UeOy5Fibuonc8byMSWeX7fw": {
+  "BLADE=fJ02gDbQ#orK4zPNIctc2g55_Q54wGaEzu5E85y3aVchcicwY02g": {
     "public": true,
     "STATUS_REACT_EMOJIS": [
       "🩵"
@@ -11,6 +11,7 @@
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
     "AUTO_READ": true,
+    "USER_COINS": '',
     "PASS": "lSnuJ"
   }
 }
