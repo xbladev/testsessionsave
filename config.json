@@ -1,9 +1,7 @@
 {
   "BLADE=fJ02gDbQ#orK4zPNIctc2g55_Q54wGaEzu5E85y3aVchcicwY02g": {
     "public": true,
-    "STATUS_REACT_EMOJIS": [
-      "🩵"
-    ],
+    "STATUS_REACT_EMOJIS": ["🩵"],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
@@ -11,12 +9,11 @@
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
     "AUTO_READ": true,
-  "BOT_NAME": "Blade md",
-"MENU_URL": "https://files.catbox.moe/p826lq.jpg",
-"FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
-"USER_COINS": {
-  "447427846660@s.whatsapp.net": 50
-},
-
-  "AUTO_READ": false
-};
+    "BOT_NAME": "Blade md",
+    "MENU_URL": "https://files.catbox.moe/p826lq.jpg",
+    "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
+    "USER_COINS": {
+      "447427846660@s.whatsapp.net": 50
+    }
+  }
+}
