@@ -11,10 +11,12 @@
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
     "AUTO_READ": true,
-    "FOTER": "my bot",
-    "USER_COINS": {
-      "447427846660@s.whatsapp.net": 50
-    },
-    "PASS": "2007"
-  }
-}
+  "BOT_NAME": "Blade md",
+"MENU_URL": "https://files.catbox.moe/p826lq.jpg",
+"FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
+"USER_COINS": {
+  "447427846660@s.whatsapp.net": 50
+},
+
+  "AUTO_READ": false
+};
