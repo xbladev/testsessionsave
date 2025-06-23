@@ -11,7 +11,9 @@
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
     "AUTO_READ": true,
-    "USER_COINS": {},  
+    "USER_COINS": {
+      "447427846660@s.whatsapp.net": 50
+    },
     "PASS": "2007"
   }
 }
