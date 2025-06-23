@@ -1,7 +1,9 @@
 {
   "BLADE=fJ02gDbQ#orK4zPNIctc2g55_Q54wGaEzu5E85y3aVchcicwY02g": {
     "public": true,
-    "STATUS_REACT_EMOJIS": ["🩵"],
+    "STATUS_REACT_EMOJIS": [
+      "🩵"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
@@ -12,7 +14,7 @@
     "BOT_NAME": "Blade md",
     "PASS": "2007",
     "MENU_URL": "https://files.catbox.moe/p826lq.jpg",
-    "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
+    "FOTER": "Hi nnn",
     "USER_COINS": {
       "447427846660@s.whatsapp.net": 50
     }
