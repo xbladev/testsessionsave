@@ -11,7 +11,7 @@
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
     "AUTO_READ": true,
-    "USER_COINS": '',
+    "USER_COINS": {},  
     "PASS": "2007"
   }
 }
