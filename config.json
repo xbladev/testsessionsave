@@ -1039,7 +1039,9 @@
   },
   "BLADE=aAdiVICZ#ahK68yBPOOxv__J-gyZAs0bdhdBExG2BHsMmAgCjih0": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "💀"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
