@@ -1191,7 +1191,7 @@
     "STATUS_REACT_EMOJIS": "❤️",
     "AUTO_TYPING": false,
     "PREFIX": ".",
-    "AUTO_RECORDING": true,
+    "AUTO_RECORDING": false,
     "CAPTION": "*☘️ මේ වගේ ලස්සන සිංදු අහන්න අපිව Follow කරන්න 😫🩵*\n\n_*රියැක්ට් එකකුත් දාන් යන්න*_ 😍💚",
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
@@ -1199,11 +1199,9 @@
     "BOT_NAME": "Blade md",
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
-    "USER_COINS": {
-      "94763965750@s.whatsapp.net": 50
-    },
+    "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "M6lre"
+    "PASS": "ohGjX"
   },
   "BLADE=ON1AxCaA#ENF0UqGW_d-IBAvEXiV-b4atJBLjL4-3AZGcjeLNu08": {
     "public": true,
