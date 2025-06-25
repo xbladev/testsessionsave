@@ -1377,7 +1377,9 @@
     "BOT_NAME": "Blade md",
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
-    "USER_COINS": {},
+    "USER_COINS": {
+      "94710998405@s.whatsapp.net": 250
+    },
     "AUTO_READ": false,
     "PASS": "V&e7K"
   }
