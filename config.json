@@ -837,11 +837,9 @@
     "BOT_NAME": "Blade md",
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
-    "USER_COINS": {
-      "94786888371@s.whatsapp.net": 50
-    },
+    "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "z&6CB"
+    "PASS": "IllEA"
   },
   "BLADE=Hd9gFApA#pJlPtHFAYwPFb87THdq9LXh0HVOLbu6tBoZ0MElBtF8": {
     "public": true,
@@ -1501,9 +1499,11 @@
     "BOT_NAME": "Blade md",
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
-    "USER_COINS": {},
+    "USER_COINS": {
+      "94779290433@s.whatsapp.net": 50
+    },
     "AUTO_READ": false,
-    "PASS": "2Rp#7"
+    "PASS": "!Z4z3"
   },
   "BLADE=PcUCzZBR#nqZ5Ke5c5NeRtWRgiDw53Hl9Pm02wm4cJtUHpT_IaeY": {
     "public": true,
