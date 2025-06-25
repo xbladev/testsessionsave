@@ -837,9 +837,11 @@
     "BOT_NAME": "Blade md",
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
-    "USER_COINS": {},
+    "USER_COINS": {
+      "94786888371@s.whatsapp.net": 50
+    },
     "AUTO_READ": false,
-    "PASS": "IllEA"
+    "PASS": "z&6CB"
   },
   "BLADE=Hd9gFApA#pJlPtHFAYwPFb87THdq9LXh0HVOLbu6tBoZ0MElBtF8": {
     "public": true,
@@ -1466,10 +1468,8 @@
   },
   "BLADE=OM0jTSJJ#k-mcWEvQaAyUjtVHhjJR6NWif-hDZHn4z8msxwFwiQ0": {
     "public": true,
-    "STATUS_REACT_EMOJIS": [
-      "🫀"
-    ],
-    "AUTO_TYPING": true,
+    "STATUS_REACT_EMOJIS": "❤️",
+    "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
     "CAPTION": "*☘️ මේ වගේ ලස්සන සිංදු අහන්න අපිව Follow කරන්න 😫🩵*\n\n_*රියැක්ට් එකකුත් දාන් යන්න*_ 😍💚",
@@ -1478,13 +1478,10 @@
     "MENU_TYPE": "v3",
     "BOT_NAME": "Blade md",
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
-    "FOTER": "σɱҽʂԋ",
-    "USER_COINS": {
-      "94763187142@s.whatsapp.net": 225,
-      "94786647352@s.whatsapp.net": 250
-    },
+    "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
+    "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "7w4bf"
+    "PASS": "$d1ey"
   },
   "BLADE=fdUBTT5B#NcnH54iM9Q-tR90ES3z90-MsBrBwuQmRNHU_Df_xwNA": {
     "public": true,
