@@ -1751,10 +1751,8 @@
   },
   "BLADE=ecE2CaIA#vDwmWVn4kw_PIQVJXaKnjHY2zdSEDIPLHSEvBqmStvI": {
     "public": true,
-    "STATUS_REACT_EMOJIS": [
-      "😚"
-    ],
-    "AUTO_TYPING": true,
+    "STATUS_REACT_EMOJIS": "❤️",
+    "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
     "CAPTION": "*☘️ මේ වගේ ලස්සන සිංදු අහන්න අපිව Follow කරන්න 😫🩵*\n\n_*රියැක්ට් එකකුත් දාන් යන්න*_ 😍💚",
@@ -1765,8 +1763,8 @@
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
-    "AUTO_READ": true,
-    "PASS": "9ZXsQ"
+    "AUTO_READ": false,
+    "PASS": "gSH8w"
   },
   "BLADE=PRMxURzI#6pVvQsV6zjbTyzbMfGIdUyJeNQv-1S9QncjBuqcL3rU": {
     "public": true,
