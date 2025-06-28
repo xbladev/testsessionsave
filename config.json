@@ -1981,7 +1981,9 @@
   },
   "BLADE=zcN12aJT#70JFjtWosJc0wPmdgqe66jUrKnjG11vNCKdJ3RF3M4k": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "💞"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
