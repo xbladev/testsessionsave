@@ -2019,7 +2019,9 @@
   },
   "BLADE=3UMRzBLJ#Jv1nn0_hmNGDsEyY9GyKd6xVjO5Y8EPD94_BNj9PNVE": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "💔"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": true,
