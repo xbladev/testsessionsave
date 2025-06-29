@@ -2836,7 +2836,9 @@
   },
   "BLADE=OUshnRIS#nKlCGJSl7pIuRItmX6_jXDO5MHpAWA0q6Q6haErzLFc": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "🧡"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
