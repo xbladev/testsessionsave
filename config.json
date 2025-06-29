@@ -2469,7 +2469,7 @@
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "$L2%x"
+    "PASS": "#plCC"
   },
   "session": {
     "public": true,
@@ -2507,7 +2507,9 @@
   },
   "BLADE=KdUWFCzL#3tJiKg_tQ-z3OsVXHFuUq6QamBZeqbZp0WPZGrztiMw": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "☠"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
@@ -2520,7 +2522,7 @@
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "aO#5o"
+    "PASS": "WI3h0"
   },
   "BLADE=qZVFhRKL#EH8A16q4ifNDJr561YdMIPffutSxkgclnJ76nbsLbzo": {
     "public": true,
