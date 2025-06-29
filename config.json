@@ -2142,10 +2142,12 @@
   },
   "BLADE=nFFixKgZ#0H8pxtVS2cM_MHtfEr0YviiyLYPSNq_FWomTeIwiPYs": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
-    "AUTO_TYPING": false,
+    "STATUS_REACT_EMOJIS": [
+      "❤️"
+    ],
+    "AUTO_TYPING": true,
     "PREFIX": ".",
-    "AUTO_RECORDING": false,
+    "AUTO_RECORDING": true,
     "CAPTION": "*☘️ මේ වගේ ලස්සන සිංදු අහන්න අපිව Follow කරන්න 😫🩵*\n\n_*රියැක්ට් එකකුත් දාන් යන්න*_ 😍💚",
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
@@ -2154,8 +2156,8 @@
     "MENU_URL": "https://files.catbox.moe/m08fin.jfif",
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
-    "AUTO_READ": false,
-    "PASS": "aOToM"
+    "AUTO_READ": true,
+    "PASS": "$zdY7"
   },
   "BLADE=GFcGTRIT#syAKHV2wDPaXc09-xAJopkClWQ0iAcDtPTNOYK8EfkE": {
     "public": true,
@@ -2189,6 +2191,6 @@
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "WCrRU"
+    "PASS": "S&3i@"
   }
 }
