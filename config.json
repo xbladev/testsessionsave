@@ -3277,7 +3277,9 @@
   },
   "BLADE=GRkDFARa#BQUg_eYqyuJDB_yN9rHAO1wF5b4snINWRTADn_m_zLM": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "💋"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
@@ -3290,7 +3292,7 @@
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "bLRmO"
+    "PASS": "aj&dq"
   },
   "BLADE=rIFG3RwC#2kq9OBjihsGnf36FfllDOehbk2aNRp85Gg5VutObUZQ": {
     "public": true,
@@ -3358,7 +3360,7 @@
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "A#E3c"
+    "PASS": "7ijD3"
   },
   "BLADE=PNtnjDCL#sEusdZaSA0R7luFGSwAkljqYy3bdHKp2udVsmHk2NTw": {
     "public": true,
