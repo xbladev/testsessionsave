@@ -3842,7 +3842,9 @@
   },
   "BLADE=PQMEDaBY#Amyq3-haalCOVX1csbtNlaYPK92bsAIER8nUHITBA8o": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "💘"
+    ],
     "AUTO_TYPING": true,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
