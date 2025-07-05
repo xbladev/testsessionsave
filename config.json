@@ -4502,12 +4502,10 @@
   },
   "BLADE=ydF3GRaQ#8vmIbTE9GhLncWRW8yi6wbTwBpFD4upKzgkBNAtEpiQ": {
     "public": true,
-    "STATUS_REACT_EMOJIS": [
-      "☠️"
-    ],
+    "STATUS_REACT_EMOJIS": "❤️",
     "AUTO_TYPING": false,
     "PREFIX": ".",
-    "AUTO_RECORDING": true,
+    "AUTO_RECORDING": false,
     "CAPTION": "*☘️ මේ වගේ ලස්සන සිංදු අහන්න අපිව Follow කරන්න 😫🩵*\n\n_*රියැක්ට් එකකුත් දාන් යන්න*_ 😍💚",
     "ALLWAYS_OFFLINE": "true",
     "OWNER_NUMBER": "94764497078",
@@ -4517,7 +4515,7 @@
     "FOTER": "> ᴘᴏᴡᴇʀᴅ ʙʏ ᴋɪɴɢ ꜱᴡɪᴛᴄʜ",
     "USER_COINS": {},
     "AUTO_READ": false,
-    "PASS": "##TwS"
+    "PASS": "2zus@"
   },
   "BLADE=bA00ABJB#X8Qg904Q1aDl3fhh7pF9NexrQfd-frZGNh3BPhvP1Ag": {
     "public": true,
