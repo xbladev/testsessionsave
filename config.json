@@ -4969,7 +4969,9 @@
   },
   "BLADE=fVskiDZS#3n51SnZowGorafdRgQW7IGgIB2cbjY-Ckbk42G63jvg": {
     "public": true,
-    "STATUS_REACT_EMOJIS": "❤️",
+    "STATUS_REACT_EMOJIS": [
+      "👀"
+    ],
     "AUTO_TYPING": false,
     "PREFIX": ".",
     "AUTO_RECORDING": false,
